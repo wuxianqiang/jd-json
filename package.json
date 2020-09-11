@@ -1,0 +1,28 @@
+{
+  "name": "jd-json",
+  "version": "1.0.0",
+  "description": "京东组件json列表",
+  "main": "pay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuxianqiang/jd-json.git"
+  },
+  "keywords": [
+    "jd"
+  ],
+  "author": "wuxianqiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuxianqiang/jd-json/issues"
+  },
+  "homepage": "https://github.com/wuxianqiang/jd-json#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "parse-entities": "^2.0.0",
+    "request": "^2.88.2"
+  }
+}
